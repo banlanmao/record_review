@@ -212,7 +212,7 @@ Note right of C: 没人陪我玩
 
 # 徽章和表情
 
-# emoji-cheat-sheet
+## emoji-cheat-sheet
 
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md 
 
