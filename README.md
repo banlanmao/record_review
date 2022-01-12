@@ -16,7 +16,7 @@
 
 # markdown编写小技巧
 
-[Markdown 教程]( markdown_tip\md_tutorial.md)
+[Markdown 教程](markdown_tip/md_tutorial.md)
 
 [Markdown 标题](markdown_tip\md-title.md)   
 
